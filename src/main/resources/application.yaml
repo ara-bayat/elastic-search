@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: business-search
+  elasticsearch:
+    Uris: http://localhost:9200
+    password: Aa@12345
+    username: elastic
+server:
+  port: 8080
